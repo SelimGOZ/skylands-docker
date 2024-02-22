@@ -1,0 +1,401 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-02-05 01:17:52 -0500"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-02-05 01:17:52 -0500"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-02-05 01:17:52 -0500"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-02-05 01:17:52 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-02-05 01:17:52 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-02-05 01:17:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-02-05 01:17:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-02-05 01:32:12 -0500",
+      "minecraft:badlands": "2024-02-05 01:19:57 -0500",
+      "minecraft:savanna": "2024-02-05 01:36:30 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-02-05 01:24:56 -0500"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-02-05 01:28:15 -0500"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull": {
+    "criteria": {
+      "has_item": "2024-02-05 01:28:15 -0500"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_ingot_from_industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_block": "2024-02-05 01:28:15 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2024-02-05 01:28:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-02-05 01:32:11 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall": {
+    "criteria": {
+      "has_cut_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab": {
+    "criteria": {
+      "has_cut_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs": {
+    "criteria": {
+      "has_cut_granite": "2024-02-05 01:33:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-02-05 01:41:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-02-05 01:48:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-02-05 01:50:33 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_split": {
+    "criteria": {
+      "ex": "2024-02-05 01:50:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-02-05 01:51:53 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2024-02-05 01:51:53 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/warped_mosco_kill": {
+    "criteria": {
+      "killed": "2024-02-05 01:52:56 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_light_gray": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_cyan": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_red": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_magenta": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_light_blue": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2024-02-05 02:15:14 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_brown": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_yellow": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "blazing_knife": "2024-02-05 02:15:14 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/conductor_whistle": {
+    "criteria": {
+      "has_item": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_pink": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "crocodile_chestplate": "2024-02-05 02:14:36 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_purple": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_gray": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_green": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-02-05 02:05:10 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-02-05 02:14:11 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_white": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_blue": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_orange": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_lime": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_black": {
+    "criteria": {
+      "hasitem": "2024-02-05 02:16:13 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-02-05 02:14:11 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
