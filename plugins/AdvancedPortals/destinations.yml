@@ -1,0 +1,14 @@
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+
+skylands:
+  world: world
+  pos:
+    X: 767.4968486610009
+    Y: 240.0
+    Z: 33.51127911763427
+    pitch: -12.600038
+    yaw: -94.260025

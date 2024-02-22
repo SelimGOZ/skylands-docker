@@ -1,0 +1,17 @@
+pp:
+  world: world/skylands/founders_island
+  triggerblock: END_GATEWAY
+  destination: skylands
+  pos1:
+    X: 12
+    Y: 36
+    Z: -83
+  pos2:
+    X: 4
+    Y: 24
+    Z: -84
+  portalArgs:
+    command:
+      '1': gamerule doDaylightCycle true
+      '2': gamerule doWeatherCycle true
+      '3': gamemode survival

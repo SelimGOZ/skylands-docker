@@ -1,0 +1,73 @@
+# Thank you for Downloading InvisibleItemFrames!
+#
+# Feel free to check out my other plugins here:
+# https://www.spigotmc.org/members/429752/#resources
+
+# Enable debug mode for the plugin to see special things.
+# WARNING: This can print out alot of debugging info.
+Debug Mode: false
+
+# Allow players to right click visible & invisible
+# item frames to access the containers behind it.
+Container Passthrough:
+
+  # Enabled or not.
+  Enabled: false
+  # The type of item frame for this to work on.
+  # Visible, Invisible or Both.
+  Type: Invisible
+  # The mode that the player is in to work.
+  # Shifting, Standing or Both.
+  Mode: Standing
+  # Containers to not passthrough and open.
+  # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  Blacklist:
+  #  - "SHULKER_BOX"
+  #  - "PURPLE_SHULKER_BOX"
+
+# Should the plugin automatically make item frames invisible when
+# an item is inside the item frame and visible when there isn't?
+Automatic Toggling: false
+
+# Language used for the plugin
+Language:
+
+  # Prefix for player chat messages. Set to "" to disable.
+  Prefix: "&#D2967A[ITF] "
+  
+  # Player messages
+  No Permission: "&cYou don't have permission to do this."
+  Toggle Visibility: "&aYou have toggled this item frame's visibility to be %status%&a."
+  Toggle Visibility On: "&2&lVISIBLE"
+  Toggle Visibility Off: "&c&lINVISIBLE"
+  Toggle Glow: "&aYou have toggled this item frame's glow to be %status%&a."
+  Toggle Glow On: "&2&lON"
+  Toggle Glow Off: "&c&lOFF"
+  Toggle No Type: "&cYou haven't provided a toggle type."
+  Toggle Invalid Type: "&cYou haven't provided a valid toggle type."
+  Toggle No Glow Color: "&cYou haven't provided a glow color."
+  Toggle Invalid Glow Color: "&cYou haven't provided a valid glow color."
+  Toggle Mode: "&aYou have %status%&a toggle mode for %type%&a."
+  Toggle Mode On: "&2&lENABLED"
+  Toggle Mode Off: "&c&lDISABLED"
+  Toggle Mode Visibility: "&b&lVISIBILITY"
+  Toggle Mode Glow: "&e&lGLOW"
+  Toggle Mode No Type: "&cYou haven't provided a toggle mode type."
+  Toggle Mode Invalid Type: "&cYou haven't provided a valid toggle mode type."
+  Toggle Mode No Glow Color: "&cYou haven't provided a glow color."
+  Toggle Mode Invalid Glow Color: "&cYou haven't provided a valid glow color."
+  Scan: "&aFound %count% item frames."
+  Scan No Number: "&cPlease provide a scan radius!"
+  Not Looking: "&cYou're not looking at an item frame!"
+  Non Number: "&c&l%value%&c is not a number or out of range (1-127)!"
+  
+  # Player & console messages
+  Command Usage:
+    - "&cInvisibleItemFrames Usages:"
+    - "&a/ITF toggle (visibility/glow) [glow color] &7- &fWhile looking at item frame."
+    - "&a/ITF togglemode (visibility/glow) [glow color] &7- &fEnable/Disable where you can right click item frames."
+    - "&a/ITF scan (radius) &7- &fScan for item frames and spawn some particles at them."
+    - "&a/ITF reload &7- &fReload the plugin."
+    
+  # Console messages
+  Only Players: "&cThis can only be used by a player."

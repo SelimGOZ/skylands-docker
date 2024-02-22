@@ -1,0 +1,40 @@
+# Toggles whether chat messages should be sent.
+Enabled: true
+
+Public:
+  # Whether public chat messages should be sent to the server's console.
+  Send-To-Console: true
+  First-Join:
+    1:
+      Permission: cjm.default
+      Radius: -1
+      Max-Players: -1
+      Messages:
+        1:
+          - "&a%name% &7has fell out of the sky and landed to the skylands first time! &8(&a#%uniquejoins%&8)"
+  Join:
+    1:
+      Permission: cjm.default
+      Messages:
+        1:
+          - "§6%name% §6has landed on the skylands!"
+  Quit:
+    1:
+      Permission: cjm.default
+      Messages:
+        1:
+          - "§6%name% §6has flown back into the sky!"
+
+Private:
+  First-Join:
+    1:
+      Permission: cjm.default
+      Messages:
+        1:
+          - "§6Welcome to our server!"
+  Join:
+    1:
+      Permission: cjm.default
+      Messages:
+        1:
+          - "§6Welcome back!"
